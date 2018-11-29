@@ -1,0 +1,7 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\obj\Debug\ProjetoAcervo.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\obj\Debug\ProjetoAcervo.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAcervo\projLivrosLista\obj\Debug\projLivrosLista.pdb
